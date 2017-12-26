@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INT", "INT.vcxproj", "{53EFBC8D-C58C-48AA-A6C4-20D3F0C1E530}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlowControl", "C:\Users\tenker\Documents\Arduino\FlowControl\FlowControl.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testCircle", "c:\Users\tenker\documents\visual studio 2012\Projects\testCircle\testCircle.vcxproj", "{C83EA9F4-D9B4-4299-9734-59A5FF8DE980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EFBC8D-C58C-48AA-A6C4-20D3F0C1E530}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53EFBC8D-C58C-48AA-A6C4-20D3F0C1E530}.Debug|Win32.Build.0 = Debug|Win32
+		{53EFBC8D-C58C-48AA-A6C4-20D3F0C1E530}.Release|Win32.ActiveCfg = Release|Win32
+		{53EFBC8D-C58C-48AA-A6C4-20D3F0C1E530}.Release|Win32.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.Build.0 = Release|Win32
+		{C83EA9F4-D9B4-4299-9734-59A5FF8DE980}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C83EA9F4-D9B4-4299-9734-59A5FF8DE980}.Debug|Win32.Build.0 = Debug|Win32
+		{C83EA9F4-D9B4-4299-9734-59A5FF8DE980}.Release|Win32.ActiveCfg = Release|Win32
+		{C83EA9F4-D9B4-4299-9734-59A5FF8DE980}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
